@@ -1,2 +1,2 @@
 # web
-<h>welcome to web class</h>
+<p>welcome to web class</p>
